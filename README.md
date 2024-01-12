@@ -47,6 +47,4 @@
   
 <br clear="both">
 
-<img src="https://github-profile-trophy.vercel.app/?username=willkerrodrigo/output/snake.svg" alt="Snake animation" />
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
